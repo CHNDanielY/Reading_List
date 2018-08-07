@@ -1,2 +1,3 @@
 # Reading_List
-整理的一些学习资源 - 常看常思考
+##算法学习
+[javascript实现基础算法](https://github.com/trekhleb/javascript-algorithms)
